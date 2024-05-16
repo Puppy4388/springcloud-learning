@@ -22,7 +22,7 @@
         <spring-cloud-alibaba.version>2.2.0.RELEASE</spring-cloud-alibaba.version>
         <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
         <spring-boot.version>2.2.0.RELEASE</spring-boot.version>
-        <hutool-version>5.3.5</hutool-version>
+        <hutool-version>5.8.21</hutool-version>
         <knife4j.version>2.0.4</knife4j.version>
     </properties>
 
